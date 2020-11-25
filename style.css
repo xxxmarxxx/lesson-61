@@ -1,0 +1,30 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+h1{
+    width: 200px;
+    margin: 10px auto;
+    background-color: rgba(173, 216, 230, 0.379);
+    padding: 10px;
+    border-radius: 5px;
+}
+button{
+    background-color: rgb(230, 207, 173);
+    padding: 10px;
+    border-radius: 10px;
+    border: solid 0px;
+    font-size: 18px;
+}
+h4{
+    color: rgba(0, 0, 0, 0.317);
+}
+.title{
+    padding: 20px;
+    color: rgba(255, 255, 255, 0.872);
+    margin-bottom: 20px;
+background-color: rgb(179, 153, 153);
+}
