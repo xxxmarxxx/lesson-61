@@ -8,3 +8,5 @@ SetState - async and merge
 ### Podbij o 3
 ### 3
 ### spojrz w console browsera
+
+![img](./assets/img.png)
